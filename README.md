@@ -1,6 +1,6 @@
 # Doggy GPS
 > Future dog owners will be able to search different dog breeds, find its attributes, and discover places to adopt them.
-> Live demo [_here_](https://esztergb.github.io/doggy-gps/). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [_here_](https://kristinehkim.github.io/doggygps/). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
