@@ -1,5 +1,5 @@
 # Doggy GPS
-> Future dog owners will be able to search different dog breeds, find its attributes, and discover places to adopt them.
+> There comes a time in most people's lives when they want a dog, but they don't know where to start.  With DoggyGPS, future dog owners will be able to search different dog breeds, find its attributes, and discover places to adopt them.
 > Live demo [_here_](https://kristinehkim.github.io/doggygps/). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
